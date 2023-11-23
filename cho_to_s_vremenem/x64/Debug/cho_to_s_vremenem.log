@@ -1,0 +1,3 @@
+﻿  cho_to_s_vremenem.cpp
+D:\Програмування\Myprojects\cho_to_s_vremenem\cho_to_s_vremenem\cho_to_s_vremenem.cpp(129,31): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+  cho_to_s_vremenem.vcxproj -> D:\Програмування\Myprojects\cho_to_s_vremenem\x64\Debug\cho_to_s_vremenem.exe
