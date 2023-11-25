@@ -1,0 +1,14 @@
+D:\домашка\C#\lab3\bin\Debug\net6.0\lab3.exe
+D:\домашка\C#\lab3\bin\Debug\net6.0\lab3.deps.json
+D:\домашка\C#\lab3\bin\Debug\net6.0\lab3.runtimeconfig.json
+D:\домашка\C#\lab3\bin\Debug\net6.0\lab3.dll
+D:\домашка\C#\lab3\bin\Debug\net6.0\lab3.pdb
+D:\домашка\C#\lab3\obj\Debug\net6.0\lab3.GeneratedMSBuildEditorConfig.editorconfig
+D:\домашка\C#\lab3\obj\Debug\net6.0\lab3.AssemblyInfoInputs.cache
+D:\домашка\C#\lab3\obj\Debug\net6.0\lab3.AssemblyInfo.cs
+D:\домашка\C#\lab3\obj\Debug\net6.0\lab3.csproj.CoreCompileInputs.cache
+D:\домашка\C#\lab3\obj\Debug\net6.0\lab3.dll
+D:\домашка\C#\lab3\obj\Debug\net6.0\refint\lab3.dll
+D:\домашка\C#\lab3\obj\Debug\net6.0\lab3.pdb
+D:\домашка\C#\lab3\obj\Debug\net6.0\lab3.genruntimeconfig.cache
+D:\домашка\C#\lab3\obj\Debug\net6.0\ref\lab3.dll
