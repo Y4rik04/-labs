@@ -1,0 +1,14 @@
+D:\домашка\C#\lab4\bin\Debug\net7.0\lab4.exe
+D:\домашка\C#\lab4\bin\Debug\net7.0\lab4.deps.json
+D:\домашка\C#\lab4\bin\Debug\net7.0\lab4.runtimeconfig.json
+D:\домашка\C#\lab4\bin\Debug\net7.0\lab4.dll
+D:\домашка\C#\lab4\bin\Debug\net7.0\lab4.pdb
+D:\домашка\C#\lab4\obj\Debug\net7.0\lab4.GeneratedMSBuildEditorConfig.editorconfig
+D:\домашка\C#\lab4\obj\Debug\net7.0\lab4.AssemblyInfoInputs.cache
+D:\домашка\C#\lab4\obj\Debug\net7.0\lab4.AssemblyInfo.cs
+D:\домашка\C#\lab4\obj\Debug\net7.0\lab4.csproj.CoreCompileInputs.cache
+D:\домашка\C#\lab4\obj\Debug\net7.0\lab4.dll
+D:\домашка\C#\lab4\obj\Debug\net7.0\refint\lab4.dll
+D:\домашка\C#\lab4\obj\Debug\net7.0\lab4.pdb
+D:\домашка\C#\lab4\obj\Debug\net7.0\lab4.genruntimeconfig.cache
+D:\домашка\C#\lab4\obj\Debug\net7.0\ref\lab4.dll
