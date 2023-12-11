@@ -1,0 +1,17 @@
+D:\домашка\C#\laba5\bin\Debug\net7.0\laba5.exe
+D:\домашка\C#\laba5\bin\Debug\net7.0\laba5.deps.json
+D:\домашка\C#\laba5\bin\Debug\net7.0\laba5.runtimeconfig.json
+D:\домашка\C#\laba5\bin\Debug\net7.0\laba5.dll
+D:\домашка\C#\laba5\bin\Debug\net7.0\laba5.pdb
+D:\домашка\C#\laba5\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\домашка\C#\laba5\obj\Debug\net7.0\laba5.csproj.AssemblyReference.cache
+D:\домашка\C#\laba5\obj\Debug\net7.0\laba5.GeneratedMSBuildEditorConfig.editorconfig
+D:\домашка\C#\laba5\obj\Debug\net7.0\laba5.AssemblyInfoInputs.cache
+D:\домашка\C#\laba5\obj\Debug\net7.0\laba5.AssemblyInfo.cs
+D:\домашка\C#\laba5\obj\Debug\net7.0\laba5.csproj.CoreCompileInputs.cache
+D:\домашка\C#\laba5\obj\Debug\net7.0\laba5.csproj.CopyComplete
+D:\домашка\C#\laba5\obj\Debug\net7.0\laba5.dll
+D:\домашка\C#\laba5\obj\Debug\net7.0\refint\laba5.dll
+D:\домашка\C#\laba5\obj\Debug\net7.0\laba5.pdb
+D:\домашка\C#\laba5\obj\Debug\net7.0\laba5.genruntimeconfig.cache
+D:\домашка\C#\laba5\obj\Debug\net7.0\ref\laba5.dll
