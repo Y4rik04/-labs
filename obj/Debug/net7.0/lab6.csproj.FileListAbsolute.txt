@@ -1,0 +1,14 @@
+D:\домашка\C#\lab6\bin\Debug\net7.0\lab6.exe
+D:\домашка\C#\lab6\bin\Debug\net7.0\lab6.deps.json
+D:\домашка\C#\lab6\bin\Debug\net7.0\lab6.runtimeconfig.json
+D:\домашка\C#\lab6\bin\Debug\net7.0\lab6.dll
+D:\домашка\C#\lab6\bin\Debug\net7.0\lab6.pdb
+D:\домашка\C#\lab6\obj\Debug\net7.0\lab6.GeneratedMSBuildEditorConfig.editorconfig
+D:\домашка\C#\lab6\obj\Debug\net7.0\lab6.AssemblyInfoInputs.cache
+D:\домашка\C#\lab6\obj\Debug\net7.0\lab6.AssemblyInfo.cs
+D:\домашка\C#\lab6\obj\Debug\net7.0\lab6.csproj.CoreCompileInputs.cache
+D:\домашка\C#\lab6\obj\Debug\net7.0\lab6.dll
+D:\домашка\C#\lab6\obj\Debug\net7.0\refint\lab6.dll
+D:\домашка\C#\lab6\obj\Debug\net7.0\lab6.pdb
+D:\домашка\C#\lab6\obj\Debug\net7.0\lab6.genruntimeconfig.cache
+D:\домашка\C#\lab6\obj\Debug\net7.0\ref\lab6.dll
