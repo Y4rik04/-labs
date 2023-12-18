@@ -1,0 +1,14 @@
+D:\домашка\C#\lab7\bin\Debug\net7.0\lab7.exe
+D:\домашка\C#\lab7\bin\Debug\net7.0\lab7.deps.json
+D:\домашка\C#\lab7\bin\Debug\net7.0\lab7.runtimeconfig.json
+D:\домашка\C#\lab7\bin\Debug\net7.0\lab7.dll
+D:\домашка\C#\lab7\bin\Debug\net7.0\lab7.pdb
+D:\домашка\C#\lab7\obj\Debug\net7.0\lab7.GeneratedMSBuildEditorConfig.editorconfig
+D:\домашка\C#\lab7\obj\Debug\net7.0\lab7.AssemblyInfoInputs.cache
+D:\домашка\C#\lab7\obj\Debug\net7.0\lab7.AssemblyInfo.cs
+D:\домашка\C#\lab7\obj\Debug\net7.0\lab7.csproj.CoreCompileInputs.cache
+D:\домашка\C#\lab7\obj\Debug\net7.0\lab7.dll
+D:\домашка\C#\lab7\obj\Debug\net7.0\refint\lab7.dll
+D:\домашка\C#\lab7\obj\Debug\net7.0\lab7.pdb
+D:\домашка\C#\lab7\obj\Debug\net7.0\lab7.genruntimeconfig.cache
+D:\домашка\C#\lab7\obj\Debug\net7.0\ref\lab7.dll
