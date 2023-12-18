@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 
-// Головний клас додатка
+// головний клас додатка
 public class TableReservationApp
 {
     static void Main(string[] args)
@@ -16,11 +16,11 @@ public class TableReservationApp
     }
 }
 
-// Клас менеджера бронювання
+// клас менеджера бронювання
 public class ReservationManager
 {
     private List<Restaurant> restaurants;
-    public List<Restaurant> Restaurants // Додайте цей рядок
+    public List<Restaurant> Restaurants 
     {
         get { return restaurants; }
     }
@@ -30,7 +30,7 @@ public class ReservationManager
         restaurants = new List<Restaurant>();
     }
 
-    // Метод для додавання ресторану
+    // метод для додавання ресторану
     public void AddRestaurant(string name, int tableCount)
     {
         try
@@ -45,7 +45,7 @@ public class ReservationManager
         
     }
 
-    // Метод для бронювання столика
+    // метод для бронювання столика
     public bool BookTable(string restaurantName, DateTime date, int tableNumber)
     {
         foreach (var restaurant in restaurants)
@@ -73,12 +73,12 @@ public class ReservationManager
                 swapped = false;
                 for (int i = 0; i < restaurants.Count - 1; i++)
                 {
-                    int avTc = CountAvailableTablesForRestaurantClassAndDateTimeMethod(restaurants[i], dt); // available tables current
-                    int avTn = CountAvailableTablesForRestaurantClassAndDateTimeMethod(restaurants[i + 1], dt); // available tables next
+                    int avTc = CountAvailableTablesForRestaurantClassAndDateTimeMethod(restaurants[i], dt); // доступні столики зараз
+                    int avTn = CountAvailableTablesForRestaurantClassAndDateTimeMethod(restaurants[i + 1], dt); // досупні столики пізніше
 
                     if (avTc < avTn)
                     {
-                        // Swap restaurants
+                        // міняємо місцями
                         var temp = restaurants[i];
                         restaurants[i] = restaurants[i + 1];
                         restaurants[i + 1] = temp;
@@ -93,7 +93,7 @@ public class ReservationManager
         }
     }
 
-    // count available tables in a restaurant
+    // обрахунок доступних столиків в закладі
     public int CountAvailableTablesForRestaurantClassAndDateTimeMethod(Restaurant r, DateTime dt)
     {
         try
@@ -116,7 +116,7 @@ public class ReservationManager
     }
 }
 
-// Клас ресторану
+// клас ресторану
 public class Restaurant
 {
     public string Name { get; set; }
@@ -134,7 +134,7 @@ public class Restaurant
 }
 
 
-// Клас столика
+// клас столика
 public class RestaurantTable
 {
     private List<DateTime> bookedDates;
@@ -144,7 +144,7 @@ public class RestaurantTable
         bookedDates = new List<DateTime>();
     }
 
-    // Метод для бронювання столика
+    // метод для бронювання столика
     public bool Book(DateTime date)
     {
         try
@@ -164,7 +164,7 @@ public class RestaurantTable
         }
     }
 
-    // Метод для перевірки, чи столик заброньований на певну дату
+    // метод для перевірки, чи столик заброньований на певну дату
     public bool IsBooked(DateTime date)
     {
         return bookedDates.Contains(date);
